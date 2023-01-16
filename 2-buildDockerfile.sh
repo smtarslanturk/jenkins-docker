@@ -1,0 +1,1 @@
+docker build -f Dockerfile-jenkins -t 14531923/jenkins-docker:1.0 .

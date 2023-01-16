@@ -23,4 +23,4 @@ cd jenkins-docker/
 ./3-runDockerDind.sh
 
 # run jenkins as a container 
-4-runDockerJenkins.sh
+./4-runDockerJenkins.sh
